@@ -38,7 +38,7 @@ You need a modern web browser to run this project.
 
 1. Clone the repo:<br><br>
    ```sh
-   git clone https://github.com/Veeresh8310/Clone_Google.git
+   git clone https://github.com/Veeresh8310/Clone-Of_Google.git
 2. Open the index.html file in your browser to start the project.
 3. Run the project in live server of preferred Browser.
    
@@ -56,4 +56,4 @@ Email - veereshveeru676@gmail.com<br>
 LinkedIn - [Veeresh Akki](https://www.linkedin.com/in/veeresh-akki-982638249?trk=contact-info)
 
 # Project Link
-   https://github.com/Veeresh8310/Clone_Google.git
+   https://github.com/Veeresh8310/Clone_Of_Google.git
